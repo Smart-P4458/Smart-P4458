@@ -1,10 +1,10 @@
 ## Hi there, I'm Pam Sani George 👋
 
 <!--
-**Smart-P4458/Smart-P4458** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart-P4458/Smart-P4458** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
  
-**Built on Resilience. Powered by Data.**
+Built on Resilience. Powered by Data.
 
 Data Analyst | Python | SQL | Power BI | Excel | DeepTech Certified
 
@@ -12,7 +12,7 @@ I am a Certified Data Analyst (3MTT Nigeria – DeepTech Cohort 1, Advanced Data
 
 My journey into tech started with Microsoft Excel, where I built financial statements and financial models for small businesses. Today, I design structured data systems and build end-to-end analytical solutions — from raw datasets to interactive dashboards.
 
-**What I Do**
+What I Do
 
 I build complete data workflows:
 Data Cleaning & Exploratory Analysis using Python
@@ -45,7 +45,7 @@ Data preparation workflow
 Analytical approach
 Insight-driven conclusions
 
-## Open To
+Open To
 
 Data Analyst roles
 Freelance analytics projects
