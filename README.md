@@ -6,7 +6,6 @@
 **Built on Resilience. Powered by Data.**
 
 ---
-
 I am a Certified Data Analyst (3MTT Nigeria – DeepTech Cohort 1, Advanced Data Analysis & Visualization, January 2026) with a strong background in Accounting and Business Intelligence.
 
 My journey into tech started with Microsoft Excel, where I built financial statements and financial models for small businesses. Today, I design structured data systems and build end-to-end analytical solutions — from raw datasets to interactive dashboards.
